@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Android Studio
 
 <div>
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=hugoramoss&show_icons=true&theme=dark)"/>
@@ -27,9 +27,6 @@
 <img align="center" alt="Hugo-Pic" height="100" src="https://user-images.githubusercontent.com/7584378/236335659-2ef38279-8b84-4198-a72d-d96bbca619a8.png">
 
 
-
-![Snake animation](https://github.com/hugoramoss/hugoramoss/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ##
 
