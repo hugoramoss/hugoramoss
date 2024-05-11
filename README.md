@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin and Android Studio
+- 🌱 I’m currently learning SwiftUI and Xcode
 
 <div>
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=hugoramoss&show_icons=true&theme=dark)"/>
